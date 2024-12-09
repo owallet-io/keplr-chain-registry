@@ -24,6 +24,7 @@
     {
       "coinDenom": "NTMPI",
       "coinMinimalDenom": "uneutaro",
+      "coinGeckoId": "neutaro",
       "coinImageUrl":"https://assets.coingecko.com/coins/images/36277/standard/Neutaro_logo.jpg?1711371142",
       "coinDecimals": 6
     }
@@ -33,6 +34,7 @@
       "coinDenom": "NTMPI",
       "coinMinimalDenom": "uneutaro",
       "coinDecimals": 6,
+      "coinGeckoId": "neutaro",
       "coinImageUrl":"https://assets.coingecko.com/coins/images/36277/standard/Neutaro_logo.jpg?1711371142",
       "gasPriceStep": {
         "low": 0.01,
@@ -45,6 +47,7 @@
     "coinDenom": "NTMPI",
     "coinMinimalDenom": "uneutaro",
     "coinDecimals": 6,
+    "coinGeckoId": "neutaro",
     "coinImageUrl":"https://assets.coingecko.com/coins/images/36277/standard/Neutaro_logo.jpg?1711371142"
   },
   "features": [
