@@ -80,6 +80,13 @@
       "coinImageUrl": "https://ipfs.daodao.zone/ipfs/bafkreibuup6wn7irxpmeckv2gq2rzh7bx4a5iw4654ebntj36y3udynk6i"
     },
     {
+      "coinDenom": "GNRT",
+      "coinGeckoId": "gnrt",
+      "coinMinimalDenom": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/oraiJP7H3LAt57DkFXNLDbLdBFNRRPvS8jg2j5AZkd9",
+      "coinDecimals": 6,
+      "coinImageUrl": "https://ipfs.io/ipfs/QmNu1YU842i2imMX9bTV5kFK8ndUpUwxHD9ipRRXoBakD6"
+    },
+    {
       "coinDenom": "HMSTR",
       "coinMinimalDenom": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/HMSTR",
       "coinDecimals": 9,
